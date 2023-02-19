@@ -1,0 +1,4 @@
+
+
+const usersPositions = getUsersJobPositions(usersArray);
+

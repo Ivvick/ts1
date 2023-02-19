@@ -1,0 +1,1 @@
+var usersPositions = getUsersJobPositions(usersArray);
